@@ -1,0 +1,1 @@
+export type Either = {success:Object, failure: string}
